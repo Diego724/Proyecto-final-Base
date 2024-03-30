@@ -69,6 +69,7 @@ header{
 .menu__side{
     -ms-overflow-style: none;
     scrollbar-width: none;
+    border-right: 1px solid black;
 }
 
 
@@ -155,3 +156,4 @@ a.selected{
         left: -80px;
     }
 }
+
