@@ -196,4 +196,17 @@ a.selected{
 }
 
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border-top: 1px solid transparent; 
+    border-bottom: 1px solid; 
+    text-align: left;
+    padding: 10px; 
+}
+
+
+
 
